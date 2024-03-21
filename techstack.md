@@ -506,82 +506,82 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@babel/core](https://www.npmjs.com/@babel/core)|v7.18.5|06/23/22|Mackinnon Buck |MIT|N/A|
-|[@babel/preset-env](https://www.npmjs.com/@babel/preset-env)|v7.18.2|06/23/22|Mackinnon Buck |MIT|N/A|
-|[@types/debug](https://www.npmjs.com/@types/debug)|v0.0.30|09/21/21|Steve Sanderson |MIT|N/A|
-|[@types/jasmine](https://www.npmjs.com/@types/jasmine)|v2.8.17|09/21/21|Steve Sanderson |MIT|N/A|
-|[@types/jest](https://www.npmjs.com/@types/jest)|v26.0.23|06/01/22|Stephen Halter |MIT|N/A|
-|[@types/jsdom](https://www.npmjs.com/@types/jsdom)|v16.2.14|06/01/22|Stephen Halter |MIT|N/A|
-|[@types/karma](https://www.npmjs.com/@types/karma)|v6.3.1|03/02/22|dependabot[bot] |MIT|N/A|
-|[@types/node](https://www.npmjs.com/@types/node)|v18.0.0|01/28/20|Ajay Bhargav B |MIT|N/A|
-|[@types/webpack](https://www.npmjs.com/@types/webpack)|v4.41.28|06/01/22|Stephen Halter |MIT|N/A|
-|[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v5.29.0|06/23/22|Mackinnon Buck |MIT|N/A|
-|[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v5.29.0|07/27/22|dependabot[bot] |BSD-2-Clause|N/A|
-|[debug](https://www.npmjs.com/debug)|v4.3.4|03/14/18|Andrew Stanton-Nurse |MIT|N/A|
-|[es6-promise](https://www.npmjs.com/es6-promise)|v4.2.8|02/25/21|Ben Adams |MIT|N/A|
-|[eslint-plugin-jsdoc](https://www.npmjs.com/eslint-plugin-jsdoc)|v39.3.3|06/01/22|Stephen Halter |BSD-3-Clause|N/A|
-|[jasmine-core](https://www.npmjs.com/jasmine-core)|v3.7.1|09/21/21|Steve Sanderson |MIT|N/A|
-|[jest-junit](https://www.npmjs.com/jest-junit)|v13.0.0|11/13/21|William Godbe |Apache-2.0|N/A|
-|[karma-chrome-launcher](https://www.npmjs.com/karma-chrome-launcher)|v3.1.0|03/02/22|dependabot[bot] |MIT|N/A|
-|[karma-firefox-launcher](https://www.npmjs.com/karma-firefox-launcher)|v2.1.1|03/02/22|dependabot[bot] |MIT|N/A|
-|[karma-ie-launcher](https://www.npmjs.com/karma-ie-launcher)|v1.0.0|03/02/22|dependabot[bot] |MIT|N/A|
-|[karma-jasmine](https://www.npmjs.com/karma-jasmine)|v4.0.1|03/02/22|dependabot[bot] |MIT|N/A|
-|[karma-junit-reporter](https://www.npmjs.com/karma-junit-reporter)|v2.0.1|03/02/22|dependabot[bot] |MIT|N/A|
-|[karma-mocha-reporter](https://www.npmjs.com/karma-mocha-reporter)|v2.2.5|03/02/22|dependabot[bot] |MIT|N/A|
-|[karma-safari-launcher](https://www.npmjs.com/karma-safari-launcher)|v1.0.0|03/02/22|dependabot[bot] |MIT|N/A|
-|[karma-sauce-launcher](https://www.npmjs.com/karma-sauce-launcher)|v4.3.6|03/02/22|dependabot[bot] |MIT|N/A|
-|[karma-sourcemap-loader](https://www.npmjs.com/karma-sourcemap-loader)|v0.3.8|03/02/22|dependabot[bot] |MIT|N/A|
-|[node-fetch](https://www.npmjs.com/node-fetch)|v2.6.7|06/02/22|Brennan |MIT|N/A|
-|[process](https://www.npmjs.com/process)|v0.11.10|02/25/21|Ben Adams |MIT|N/A|
-|[rimraf](https://www.npmjs.com/rimraf)|v3.0.2|06/23/22|Mackinnon Buck |ISC|N/A|
-|[rollup-plugin-terser](https://www.npmjs.com/rollup-plugin-terser)|v7.0.2|01/11/22|Pavel Savara |MIT|N/A|
-|[selenium-standalone](https://www.npmjs.com/selenium-standalone)|v7.1.0|05/09/22|Safia Abdalla |MIT|N/A|
-|[terser](https://www.npmjs.com/terser)|v5.14.2|07/27/22|dependabot[bot] |BSD-2-Clause|N/A|
-|[terser-webpack-plugin](https://www.npmjs.com/terser-webpack-plugin)|v5.3.3|07/21/22|dependabot[bot] |MIT|N/A|
-|[ts-jest](https://www.npmjs.com/ts-jest)|v26.5.6|11/13/21|William Godbe |MIT|N/A|
-|[ts-loader](https://www.npmjs.com/ts-loader)|v9.3.1|06/23/22|Mackinnon Buck |MIT|N/A|
-|[ts-node](https://www.npmjs.com/ts-node)|v8.10.2|01/28/20|Ajay Bhargav B |MIT|N/A|
-|[tslib](https://www.npmjs.com/tslib)|v1.14.1|01/11/22|Pavel Savara |0BSD|N/A|
-|[webpack-cli](https://www.npmjs.com/webpack-cli)|v4.10.0|06/23/22|Mackinnon Buck |MIT|N/A|
+|[@babel/core](https://www.npmjs.com/@babel/core)|v7.18.5|N/A|N/A |MIT|N/A|
+|[@babel/preset-env](https://www.npmjs.com/@babel/preset-env)|v7.18.2|N/A|N/A |MIT|N/A|
+|[@types/debug](https://www.npmjs.com/@types/debug)|v0.0.30|N/A|N/A |MIT|N/A|
+|[@types/jasmine](https://www.npmjs.com/@types/jasmine)|v2.8.17|N/A|N/A |MIT|N/A|
+|[@types/jest](https://www.npmjs.com/@types/jest)|v26.0.23|N/A|N/A |MIT|N/A|
+|[@types/jsdom](https://www.npmjs.com/@types/jsdom)|v16.2.14|N/A|N/A |MIT|N/A|
+|[@types/karma](https://www.npmjs.com/@types/karma)|v6.3.1|N/A|N/A |MIT|N/A|
+|[@types/node](https://www.npmjs.com/@types/node)|v18.0.0|N/A|N/A |MIT|N/A|
+|[@types/webpack](https://www.npmjs.com/@types/webpack)|v4.41.28|N/A|N/A |MIT|N/A|
+|[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v5.29.0|N/A|N/A |MIT|N/A|
+|[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v5.29.0|N/A|N/A |BSD-2-Clause|N/A|
+|[debug](https://www.npmjs.com/debug)|v4.3.4|N/A|N/A |MIT|N/A|
+|[es6-promise](https://www.npmjs.com/es6-promise)|v4.2.8|N/A|N/A |MIT|N/A|
+|[eslint-plugin-jsdoc](https://www.npmjs.com/eslint-plugin-jsdoc)|v39.3.3|N/A|N/A |BSD-3-Clause|N/A|
+|[jasmine-core](https://www.npmjs.com/jasmine-core)|v3.7.1|N/A|N/A |MIT|N/A|
+|[jest-junit](https://www.npmjs.com/jest-junit)|v13.0.0|N/A|N/A |Apache-2.0|N/A|
+|[karma-chrome-launcher](https://www.npmjs.com/karma-chrome-launcher)|v3.1.0|N/A|N/A |MIT|N/A|
+|[karma-firefox-launcher](https://www.npmjs.com/karma-firefox-launcher)|v2.1.1|N/A|N/A |MIT|N/A|
+|[karma-ie-launcher](https://www.npmjs.com/karma-ie-launcher)|v1.0.0|N/A|N/A |MIT|N/A|
+|[karma-jasmine](https://www.npmjs.com/karma-jasmine)|v4.0.1|N/A|N/A |MIT|N/A|
+|[karma-junit-reporter](https://www.npmjs.com/karma-junit-reporter)|v2.0.1|N/A|N/A |MIT|N/A|
+|[karma-mocha-reporter](https://www.npmjs.com/karma-mocha-reporter)|v2.2.5|N/A|N/A |MIT|N/A|
+|[karma-safari-launcher](https://www.npmjs.com/karma-safari-launcher)|v1.0.0|N/A|N/A |MIT|N/A|
+|[karma-sauce-launcher](https://www.npmjs.com/karma-sauce-launcher)|v4.3.6|N/A|N/A |MIT|N/A|
+|[karma-sourcemap-loader](https://www.npmjs.com/karma-sourcemap-loader)|v0.3.8|N/A|N/A |MIT|N/A|
+|[node-fetch](https://www.npmjs.com/node-fetch)|v2.6.7|N/A|N/A |MIT|N/A|
+|[process](https://www.npmjs.com/process)|v0.11.10|N/A|N/A |MIT|N/A|
+|[rimraf](https://www.npmjs.com/rimraf)|v3.0.2|N/A|N/A |ISC|N/A|
+|[rollup-plugin-terser](https://www.npmjs.com/rollup-plugin-terser)|v7.0.2|N/A|N/A |MIT|N/A|
+|[selenium-standalone](https://www.npmjs.com/selenium-standalone)|v7.1.0|N/A|N/A |MIT|N/A|
+|[terser](https://www.npmjs.com/terser)|v5.14.2|N/A|N/A |BSD-2-Clause|N/A|
+|[terser-webpack-plugin](https://www.npmjs.com/terser-webpack-plugin)|v5.3.3|N/A|N/A |MIT|N/A|
+|[ts-jest](https://www.npmjs.com/ts-jest)|v26.5.6|N/A|N/A |MIT|N/A|
+|[ts-loader](https://www.npmjs.com/ts-loader)|v9.3.1|N/A|N/A |MIT|N/A|
+|[ts-node](https://www.npmjs.com/ts-node)|v8.10.2|N/A|N/A |MIT|N/A|
+|[tslib](https://www.npmjs.com/tslib)|v1.14.1|N/A|N/A |0BSD|N/A|
+|[webpack-cli](https://www.npmjs.com/webpack-cli)|v4.10.0|N/A|N/A |MIT|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg'/> NuGet (9)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[Microsoft.Build.Framework](https://www.nuget.org/Microsoft.Build.Framework)|N/A|10/08/21|Eric Erhardt |MIT|N/A|
-|[Microsoft.Build.Tasks.Core](https://www.nuget.org/Microsoft.Build.Tasks.Core)|N/A|10/08/21|Eric Erhardt |MIT|N/A|
-|[Microsoft.Build.Utilities.Core](https://www.nuget.org/Microsoft.Build.Utilities.Core)|N/A|10/08/21|Eric Erhardt |MIT|N/A|
-|[Microsoft.CodeDom.Providers.DotNetCompilerPlatform](https://www.nuget.org/Microsoft.CodeDom.Providers.DotNetCompilerPlatform)|v1.0.0|09/21/21|dotnet-maestro[bot] |N/A|N/A|
-|[Microsoft.Extensions.DependencyModel](https://www.nuget.org/Microsoft.Extensions.DependencyModel)|N/A|10/08/21|Eric Erhardt |N/A|N/A|
-|[Microsoft.Net.Compilers](https://www.nuget.org/Microsoft.Net.Compilers)|v1.0.0|09/21/21|dotnet-maestro[bot] |MIT|N/A|
-|[NuGet.Packaging](https://www.nuget.org/NuGet.Packaging)|N/A|10/08/21|Eric Erhardt |Other|N/A|
-|[System.Diagnostics.DiagnosticSource](https://www.nuget.org/System.Diagnostics.DiagnosticSource)|v4.6.0|06/11/21|dotnet-maestro[bot] |MIT|N/A|
-|[System.Net.Http](https://www.nuget.org/System.Net.Http)|v4.3.4|07/17/20|Pranav K |N/A|N/A|
+|[Microsoft.Build.Framework](https://www.nuget.org/Microsoft.Build.Framework)|N/A|N/A|N/A |MIT|N/A|
+|[Microsoft.Build.Tasks.Core](https://www.nuget.org/Microsoft.Build.Tasks.Core)|N/A|N/A|N/A |MIT|N/A|
+|[Microsoft.Build.Utilities.Core](https://www.nuget.org/Microsoft.Build.Utilities.Core)|N/A|N/A|N/A |MIT|N/A|
+|[Microsoft.CodeDom.Providers.DotNetCompilerPlatform](https://www.nuget.org/Microsoft.CodeDom.Providers.DotNetCompilerPlatform)|v1.0.0|N/A|N/A |N/A|N/A|
+|[Microsoft.Extensions.DependencyModel](https://www.nuget.org/Microsoft.Extensions.DependencyModel)|N/A|N/A|N/A |N/A|N/A|
+|[Microsoft.Net.Compilers](https://www.nuget.org/Microsoft.Net.Compilers)|v1.0.0|N/A|N/A |MIT|N/A|
+|[NuGet.Packaging](https://www.nuget.org/NuGet.Packaging)|N/A|N/A|N/A |Other|N/A|
+|[System.Diagnostics.DiagnosticSource](https://www.nuget.org/System.Diagnostics.DiagnosticSource)|v4.6.0|N/A|N/A |MIT|N/A|
+|[System.Net.Http](https://www.nuget.org/System.Net.Http)|v4.3.4|N/A|N/A |N/A|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png'/> Apache Maven (9)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[ch.qos.logback:logback-classic](http://logback.qos.ch)|v1.2.3|09/11/20|Brennan |EPL-1.0,LGPL-2.1+|[CVE-2023-6378](https://github.com/advisories/GHSA-vmq6-5m68-f53m) (High)|
-|[com.google.code.gson:gson](https://github.com/google/gson)|v2.8.5|09/02/20|William Godbe |Apache-2.0|[CVE-2022-25647](https://github.com/advisories/GHSA-4jrv-ppp4-jm57) (High)|
-|[com.squareup.okhttp3:okhttp](https://github.com/square/okhttp)|v3.11.0|09/13/21|Alexander Köplinger |Apache-2.0|N/A|
-|[org.junit.jupiter:junit-jupiter-api](https://junit.org/junit5/)|v5.3.1|09/02/20|William Godbe |EPL-2.0|N/A|
-|[org.junit.jupiter:junit-jupiter-engine](https://junit.org/junit5/)|v5.3.1|09/02/20|William Godbe |EPL-2.0|N/A|
-|[org.junit.jupiter:junit-jupiter-params](https://junit.org/junit5/)|v5.3.1|09/02/20|William Godbe |EPL-2.0|N/A|
-|[org.msgpack:jackson-dataformat-msgpack](http://msgpack.org/)|v0.8.20|09/15/20|Brennan |Apache-2.0|N/A|
-|[org.msgpack:msgpack-core](http://msgpack.org/)|v0.8.20|09/13/21|Alexander Köplinger |Apache-2.0|N/A|
-|[org.slf4j:slf4j-api](http://www.slf4j.org)|v1.7.25|09/02/20|William Godbe |MIT|N/A|
+|[ch.qos.logback:logback-classic](http://logback.qos.ch)|v1.2.3|N/A|N/A |EPL-1.0,LGPL-2.1+|[CVE-2023-6378](https://github.com/advisories/GHSA-vmq6-5m68-f53m) (High)|
+|[com.google.code.gson:gson](https://github.com/google/gson)|v2.8.5|N/A|N/A |Apache-2.0|[CVE-2022-25647](https://github.com/advisories/GHSA-4jrv-ppp4-jm57) (High)|
+|[com.squareup.okhttp3:okhttp](https://github.com/square/okhttp)|v3.11.0|N/A|N/A |Apache-2.0|N/A|
+|[org.junit.jupiter:junit-jupiter-api](https://junit.org/junit5/)|v5.3.1|N/A|N/A |EPL-2.0|N/A|
+|[org.junit.jupiter:junit-jupiter-engine](https://junit.org/junit5/)|v5.3.1|N/A|N/A |EPL-2.0|N/A|
+|[org.junit.jupiter:junit-jupiter-params](https://junit.org/junit5/)|v5.3.1|N/A|N/A |EPL-2.0|N/A|
+|[org.msgpack:jackson-dataformat-msgpack](http://msgpack.org/)|v0.8.20|N/A|N/A |Apache-2.0|N/A|
+|[org.msgpack:msgpack-core](http://msgpack.org/)|v0.8.20|N/A|N/A |Apache-2.0|N/A|
+|[org.slf4j:slf4j-api](http://www.slf4j.org)|v1.7.25|N/A|N/A |MIT|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/847/66db62603f426a8fc6664081811be6d4.png'/> Bower (3)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[bootstrap](http://bower.io/bootstrap)|v3.4.0|02/05/19|Ryan Brandenburg |N/A|N/A|
-|[jquery-validation](http://bower.io/jquery-validation)|v1.14.0|08/04/22|Artak |N/A|N/A|
-|[jquery-validation-unobtrusive](http://bower.io/jquery-validation-unobtrusive)|v4.0.0|08/04/22|Artak |N/A|N/A|
+|[bootstrap](http://bower.io/bootstrap)|v3.4.0|N/A|N/A |N/A|N/A|
+|[jquery-validation](http://bower.io/jquery-validation)|v1.14.0|N/A|N/A |N/A|N/A|
+|[jquery-validation-unobtrusive](http://bower.io/jquery-validation-unobtrusive)|v4.0.0|N/A|N/A |N/A|N/A|
 
 <br/>
 <div align='center'>
